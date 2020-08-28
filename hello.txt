@@ -9,4 +9,6 @@
 8.hello liu z  ----- 
 9. diff stage
 x: master commit 
-10. rebase 
+10. rebase
+
+12、hello liu 
