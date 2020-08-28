@@ -10,3 +10,4 @@
 9. diff stage
 x: master commit 
 10. rebase 
+11.master commmit 
